@@ -10,7 +10,7 @@
         ini_set('display_errors', 'On');
         error_reporting(E_ALL);
 
-        $host     = 'https://gc-webhosting.nl';
+        $host     = 'localhost';
         $db       = 'net24pveltman_phptest';
         $user     = 'net24pveltman_dinges';
         $password = '0LrW^;ab&Rw?';
